@@ -1,0 +1,20 @@
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_7\obj\Debug\Завдання_6.Form1.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_7\obj\Debug\Завдання_7.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_7\obj\Debug\Завдання_7.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_7\obj\Debug\Завдання_7.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_7\bin\Debug\Завдання_7.exe.config
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_7\bin\Debug\Завдання_7.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_7\bin\Debug\Завдання_7.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_7\obj\Debug\Завдання_7.exe
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_7\obj\Debug\Завдання_7.pdb
+C:\Users\lenovo\Desktop\Домашка 4 семестр\ООП\Лаб1\Лаб_1\Завдання_7\obj\Debug\Завдання_7.csprojAssemblyReference.cache
+D:\oop_labs\lab1\Завдання_7\obj\Debug\Завдання_7.csprojAssemblyReference.cache
+D:\oop_labs\lab1\Завдання_7\obj\Debug\Завдання_6.Form1.resources
+D:\oop_labs\lab1\Завдання_7\obj\Debug\Завдання_7.Properties.Resources.resources
+D:\oop_labs\lab1\Завдання_7\obj\Debug\Завдання_7.csproj.GenerateResource.cache
+D:\oop_labs\lab1\Завдання_7\obj\Debug\Завдання_7.csproj.CoreCompileInputs.cache
+D:\oop_labs\lab1\Завдання_7\obj\Debug\Завдання_7.exe
+D:\oop_labs\lab1\Завдання_7\obj\Debug\Завдання_7.pdb
+D:\oop_labs\lab1\Завдання_7\bin\Debug\Завдання_7.exe.config
+D:\oop_labs\lab1\Завдання_7\bin\Debug\Завдання_7.exe
+D:\oop_labs\lab1\Завдання_7\bin\Debug\Завдання_7.pdb
